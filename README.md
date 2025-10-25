@@ -34,6 +34,11 @@ While digging deep, I could figure out some inexplicable insights. Let me share 
 📌 Preferences tied not just to show popularity but episode length, in other words longer episodes seem to reduce binge volume.
 Trust me, I was bowled over by the results — and honestly, I’ve never been this excited to build something in Excel and that too on Netflix…..
 
+--------
+
+
+!https://github.com/priyankasaha-bit/Netflix-Recommendation/blob/main/Netflix%20screenshot_2.png?raw=true
+!
 
 
 ### 📂 Download the Excel File
