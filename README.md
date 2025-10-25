@@ -44,7 +44,7 @@ Trust me, I was bowled over by the results — and honestly, I’ve never been t
 
 ![Netflix](https://github.com/priyankasaha-bit/Netflix-Recommendation/blob/main/Netflix%20screenshot_2.png?raw=true)
 
-
+![Netflix](https://github.com/priyankasaha-bit/Netflix-Recommendation/blob/main/Netflix%20Screenshot_1.png?raw=true)
 
 📂 **Download the Excel File**
 
