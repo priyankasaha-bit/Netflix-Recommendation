@@ -1,4 +1,4 @@
-🎬 # Netflix Recommendation for Viewers
+# Netflix Recommendation for Viewers
 
 
 **Tool:** Microsoft Excel  
