@@ -5,12 +5,14 @@
 
 ---
 📖 **Project Overview**
+
 This Excel project analyzes **viewer behavior on Netflix** to uncover relationships between popular shows and develop a basic recommendation pattern.  
 It uses a **correlation matrix** to identify which shows are likely to be enjoyed together, simulating a simple recommendation engine for streaming platforms.
 
 ---
 
  🎯**Key Objectives**
+ 
 - Analyze viewing correlations between different Netflix shows  
 - Detect viewing patterns that indicate strong positive relationships  
 - Visualize similarity scores through conditional formatting  
@@ -19,6 +21,7 @@ It uses a **correlation matrix** to identify which shows are likely to be enjoye
 ---
 
  📊 **Key Insights**
+ 
 Welcome to behind-the-scenes drama, where every pause, binge, and bail-out tells a story on Netflix.
 Netflix is the top binging platform across the world. Do you know……Hidden within the numbers are signals of obsession, boredom, loyalty — and the quiet moments when viewers walk away. This isn’t just data; it’s a portrait of attention in the streaming age.
 While digging deep, I could figure out some inexplicable insights. Let me share them……
@@ -36,17 +39,21 @@ Trust me, I was bowled over by the results — and honestly, I’ve never been t
 
 --------
 
+🖼️ **Dashboard Preview**
 
 !https://github.com/priyankasaha-bit/Netflix-Recommendation/blob/main/Netflix%20screenshot_2.png?raw=true
-!
+!<img width="1435" height="635" alt="image" src="https://github.com/user-attachments/assets/c5bbf90e-d0ef-4804-a51c-c27c35554dd5" />
 
 
-### 📂 Download the Excel File
+
+📂 **Download the Excel File**
+
 You can download the Excel workbook here:  
 https://docs.google.com/spreadsheets/d/1VRi1YHZZPvjY0XbK0yBIVgW6MAc_oly-/edit?usp=sharing&ouid=117136215675051258528&rtpof=true&sd=true
 
 ---
 
-### 💬 About the Author
-Created by **Priyanka Saha**, Data Analyst passionate about exploring behavioral data and transforming it into meaningful recommendations.  
+💬 **Created by**
+
+ **Priyanka Saha**, Data Analyst passionate about exploring behavioral data and transforming it into meaningful recommendations.  
 📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/
