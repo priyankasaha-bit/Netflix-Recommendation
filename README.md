@@ -41,8 +41,8 @@ Trust me, I was bowled over by the results — and honestly, I’ve never been t
 
 🖼️ **Dashboard Preview**
 
-!https://github.com/priyankasaha-bit/Netflix-Recommendation/blob/main/Netflix%20screenshot_2.png?raw=true
-!<img width="1435" height="635" alt="image" src="https://github.com/user-attachments/assets/c5bbf90e-d0ef-4804-a51c-c27c35554dd5" />
+
+
 
 
 
