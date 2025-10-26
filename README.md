@@ -57,4 +57,4 @@ https://docs.google.com/spreadsheets/d/1VRi1YHZZPvjY0XbK0yBIVgW6MAc_oly-/edit?us
 💬 **Created by**
 
  **Priyanka Saha**, Data Analyst passionate about exploring behavioral data and transforming it into meaningful recommendations.  
-📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/
+📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/details/projects/
